@@ -2,7 +2,7 @@
   "name": "mypp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sajrajsingh25/RreactfirstApp",
+  "homepage": "https://sajrajsingh25.github.io/RreactfirstApp",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
