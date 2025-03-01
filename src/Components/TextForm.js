@@ -37,7 +37,7 @@ export default function TextForm(props) {
     <div>
       <form>
     <div className="container my-2" style={{color: props.mode ==='dark'?'white':'black'}}>
-      <div className='container ' >  <img src="/images/Sajraj_Singh_pic.jpg" alt="Thumbnail" className="img-thumbnail  my-5" style={{ width: "100px" }}/>
+      <div className='container ' >  <img src="/public/images/Sajraj_Singh_pic.jpg" alt="Thumbnail" className="img-thumbnail  my-5" style={{ width: "100px" }}/>
       </div>
     <h1>{props.heading} </h1>
     <label htmlFor="MyBox" className="form-label" >Any Text Value</label>
